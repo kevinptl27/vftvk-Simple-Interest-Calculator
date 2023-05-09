@@ -1,0 +1,83 @@
+/*
+	@name home_page
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 375px; width: 375px; height: 812px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__home_page {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	background:rgba(0,0,0,1);
+}
+
+
+#rectangle_1 {
+	top: 33px;
+	left: -13px;
+	width: 400px;
+	height: 195.29px;
+}
+
+
+#copy_of_scan_to_win {
+	top: 262px;
+	left: 116px;
+	width: 250px;
+	height: 176.75px;
+}
+
+
+#___your_ticket_contains_a_unique_ticket_number_____please_keep_your_ticket_safe_and_follow_us_on_instagram_at__tedxdypakurdi_for_updates_____we_will_announce_the_lucky_draw_winner_on_our_instagram_story_by_5pm_today_____if_your_ticket_number_matches_the_winning_number__you_will_win_a_prize_____simply_contact_the_person_listed_below_to_arrange_prize_collection__syed_aman_shah___9424578042___thank_you_for_participating_and_good_luck_ {
+	top: 421px;
+	left: 21px;
+	width: 358px;
+	height: 393px;
+	overflow: hidden;
+	font-family: Alata;
+	font-size: 18px;
+	text-align: left;
+	line-height: 20px;
+	color:#FFFFFF;
+}
+
+
+#text {
+	top: 268px;
+	left: 104px;
+	width: 13px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Sans Serif Collection;
+	font-size: 15px;
+	text-align: center;
+	line-height: 20px;
+	color:#FFFFFF;
+}
+
+
+#welcome_to_tedxdypakurdi_giveaway_bonanza {
+	top: 173px;
+	left: 12px;
+	width: 389px;
+	height: 126px;
+	overflow: hidden;
+	font-family: Allerta;
+	font-size: 30px;
+	text-align: left;
+	line-height: 35px;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */
